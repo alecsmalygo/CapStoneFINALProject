@@ -1,3 +1,15 @@
 <resources>
     <string name="app_name">WWE Music</string>
+    <string name="therock1">Do You Smell It? - The Rock (1998)</string>
+    <string name="chrisjericho1">Break The Walls Down - Chris Jericho (2000)</string>
+    <string name="tripleh1">Game Time - Triple H (November 2000)</string>
+    <string name="therock2">Is Cooking - The Rock (March 2003)</string>
+    <string name="randyorton1">Burn In My Light - Randy Orton (2004)</string>
+    <string name="tripleh2">My Time - Triple H (2000)</string>
+    <string name="therock3">Is Cooking - The Rock (No Way Out 2003)</string>
+    <string name="sethrollins1">The Second Coming - Seth Rollins (2014)</string>
+    <string name="steveaustin1">Hell Frozen Over - Stone Cold Steve Austin (1996)</string>
+    <string name="therock4">Is Cooking - The Rock (December 2003)</string>
+    <string name="chrisjericho2">Break The Walls Down - Chris Jericho (2001)</string>
+    <string name="corporateministry1">Evil Empire - The Corporate Ministry (1999)</string>
 </resources>

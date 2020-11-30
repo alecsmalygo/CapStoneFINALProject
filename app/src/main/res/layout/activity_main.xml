@@ -10,7 +10,7 @@
         android:id="@+id/button"
         android:layout_width="420dp"
         android:layout_height="62dp"
-        android:text="Button"
+        android:text="@string/therock1"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
@@ -19,7 +19,7 @@
         android:id="@+id/button2"
         android:layout_width="420dp"
         android:layout_height="62dp"
-        android:text="Button"
+        android:text="@string/chrisjericho1"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/button" />
@@ -28,7 +28,7 @@
         android:id="@+id/button3"
         android:layout_width="420dp"
         android:layout_height="62dp"
-        android:text="Button"
+        android:text="@string/tripleh1"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/button2" />
@@ -37,7 +37,7 @@
         android:id="@+id/button4"
         android:layout_width="420dp"
         android:layout_height="62dp"
-        android:text="Button"
+        android:text="@string/therock2"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/button3" />
@@ -46,7 +46,7 @@
         android:id="@+id/button5"
         android:layout_width="420dp"
         android:layout_height="62dp"
-        android:text="Button"
+        android:text="@string/randyorton1"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/button4" />
@@ -55,7 +55,7 @@
         android:id="@+id/button6"
         android:layout_width="420dp"
         android:layout_height="62dp"
-        android:text="Button"
+        android:text="@string/tripleh2"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/button5" />
@@ -64,7 +64,7 @@
         android:id="@+id/button7"
         android:layout_width="420dp"
         android:layout_height="62dp"
-        android:text="Button"
+        android:text="@string/therock3"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/button6" />
@@ -73,7 +73,7 @@
         android:id="@+id/button8"
         android:layout_width="420dp"
         android:layout_height="62dp"
-        android:text="Button"
+        android:text="@string/sethrollins1"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/button7" />
@@ -82,7 +82,7 @@
         android:id="@+id/button9"
         android:layout_width="420dp"
         android:layout_height="62dp"
-        android:text="Button"
+        android:text="@string/steveaustin1"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/button8" />
@@ -91,7 +91,7 @@
         android:id="@+id/button10"
         android:layout_width="420dp"
         android:layout_height="62dp"
-        android:text="Button"
+        android:text="@string/therock4"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/button9" />
@@ -100,7 +100,7 @@
         android:id="@+id/button11"
         android:layout_width="420dp"
         android:layout_height="62dp"
-        android:text="Button"
+        android:text="@string/chrisjericho2"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/button10" />
@@ -109,7 +109,7 @@
         android:id="@+id/button12"
         android:layout_width="420dp"
         android:layout_height="62dp"
-        android:text="Button"
+        android:text="@string/corporateministry1"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/button11" />
